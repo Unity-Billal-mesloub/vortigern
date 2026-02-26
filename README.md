@@ -165,6 +165,6 @@ Vortigern is released under the [MIT license](LICENSE).
 
 We help startups start and stay started by helping them plan, strategize, fund and execute their vision. 
 
-You can contact us at [mesloubi2021@gmail.com.digital](mesloubi2021@gmail.com)
+You can contact us at [mesloubi2021@gmail.com](mesloubi2021@gmail.com)
 
 
